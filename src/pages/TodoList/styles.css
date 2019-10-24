@@ -1,0 +1,71 @@
+.container {
+  margin: 40px 300px 40px 300px;
+}
+
+.paper-header {
+  padding: 20px;
+}
+
+.input {
+  width: 300px;
+}
+
+.btn-adicionar-tarefa {
+  margin-top: 20px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.radio-inputs {
+  margin-top: 20px;  
+}
+
+.todo-inputs {
+  display: flex;
+  justify-content: space-around;
+}
+
+.paper-list {
+  margin-top: 10px;
+}
+
+.list-item {
+  margin-top: 10px;
+  padding: 1px 20px 20px 20px;
+  opacity: 0.8;
+  color: black;
+  border-radius: 5px;
+}
+
+.list-item-normal {
+  margin-top: 10px;
+  padding: 1px 20px 20px 20px;
+  opacity: 0.8;
+  background-color: rgba(23, 201, 100, 1);
+  color: white;
+  border-radius: 5px;
+}
+
+.list-item-medio {
+  margin-top: 10px;
+  padding: 1px 20px 20px 20px;
+  opacity: 0.8;
+  background-color: rgba(255, 130, 0, 1);
+  color: white;
+  border-radius: 5px;
+}
+
+.list-item-urgente {
+  margin-top: 10px;
+  padding: 1px 20px 20px 20px;
+  opacity: 0.8;
+  background-color: rgba(242, 19, 93, 1);
+  color: white;
+  border-radius: 5px;
+}
+
+.list-item p {
+  font-size: 18px;
+  font-weight: bold;
+}
+
